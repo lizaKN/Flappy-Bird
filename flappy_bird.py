@@ -10,6 +10,7 @@ class Paddle:
         self.height = A
         self.width = B
 
+
     # def moveUp(self):
     #     self.posY -= 10
     #
